@@ -4,11 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanne-samrudhi&label=Profile%20views&color=0e75b6&style=flat" alt="kanne-samrudhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanne-samrudhi" alt="kanne-samrudhi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Scrum ,regression testing ,integration testing, api testing**
 
