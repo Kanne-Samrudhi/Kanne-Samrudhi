@@ -1,7 +1,7 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg])
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_600_2000/0/1530798575533?e=2147483647&v=beta&t=sqnSWevZdABdb_0dIgwYKN8oqfPm-VBwr-EU5wiuAFE](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kanne Samrudhi</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
-(img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif")
+<img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanne-samrudhi&label=Profile%20views&color=0e75b6&style=flat" alt="kanne-samrudhi" /> </p>
