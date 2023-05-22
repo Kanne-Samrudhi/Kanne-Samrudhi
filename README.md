@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg](https://rishavchanda.io)
+[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg])
 <h1 align="center">Hi 👋, I'm Kanne Samrudhi</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 (img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif")
