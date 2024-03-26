@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kannesamu@gmail.com**
 
-- 📄 Know about my experiences [portfolio](https://github)
+- 📄 Know about my experiences [portfolio]( https://kanne-samrudhi.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
