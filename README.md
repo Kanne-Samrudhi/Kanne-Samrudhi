@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **kannesamu@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFgAVa-itk/P39Q_m7aqmp8txZRVp1kgA/view?utm_content=DAFgAVa-itk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFgAVa-itk/P39Q_m7aqmp8txZRVp1kgA/view?utm_content=DAFgAVa-itk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Portfolio]([https://www.canva.com/design/DAFgAVa-itk/P39Q_m7aqmp8txZRVp1kgA/view?utm_content=DAFgAVa-itk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://kanne-samrudhi.github.io/portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kannesamrudhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kannesamrudhi" height="30" width="40" /></a>
-<a href="https://kaggle.com/kasettypurushotham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kasettypurushotham" height="30" width="40" /></a>
+<a href="https://kaggle.com/kasettypurushotham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ammu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
