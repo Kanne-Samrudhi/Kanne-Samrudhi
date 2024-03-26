@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kannesamu@gmail.com**
 
-- 📄 Know about my experiences [Portfolio]([https://www.canva.com/design/DAFgAVa-itk/P39Q_m7aqmp8txZRVp1kgA/view?utm_content=DAFgAVa-itk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://kanne-samrudhi.github.io/portfolio/))
+- 📄 Know about my experiences [(https://kanne-samrudhi.github.io/portfolio/)]([https://www.canva.com/design/DAFgAVa-itk/P39Q_m7aqmp8txZRVp1kgA/view?utm_content=DAFgAVa-itk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://kanne-samrudhi.github.io/portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
