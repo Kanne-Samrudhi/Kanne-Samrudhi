@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*_zcVnX2xGxMVgjkN7tlRMQ.gif)]
+[![MasterHead](https://sl.bing.net/kUturryXAVE)]
 <h1 align="center">Hi 👋, I'm Kanne Samrudhi</h1>
 <h3 align="center">A passionate Software Develepor from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
