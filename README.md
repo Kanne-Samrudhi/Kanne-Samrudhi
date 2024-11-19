@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/en-GB/view/scaler-create-impact-code-sleep-time-gif-25011979 )]
+[![MasterHead](https://tenor.com/en-GB/view/scaler-create-impact-code-sleep-time-gif-25011979)]
 <h1 align="center">Hi 👋, I'm Kanne Samrudhi</h1>
 <h3 align="center">A passionate Software Develepor from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
