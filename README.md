@@ -1,14 +1,14 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_600_2000/0/1530798575533?e=2147483647&v=beta&t=sqnSWevZdABdb_0dIgwYKN8oqfPm-VBwr-EU5wiuAFE)]
+[![MasterHead](https://tenor.com/bQ6Vb.gif)]
 <h1 align="center">Hi 👋, I'm Kanne Samrudhi</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
+<h3 align="center">A passionate Software Develepor from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
 
 
 
 
-- 🌱 I’m currently learning **Scrum ,regression testing ,integration testing, api testing**
+- 🌱 I’m currently learning **Servlet,JSP,Hibernate,Spring,SpringBoot**
 
-- 💬 Ask me about **testing,testing methodologies**
+- 💬 Ask me about **CoreJava,Sql,JDBC,Oops**
 
 - 📫 How to reach me **kannesamu@gmail.com**
 
